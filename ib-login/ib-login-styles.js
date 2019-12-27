@@ -25,7 +25,11 @@ export default css`
   margin-top: 15rem; }
 
 #noteuser, #notepassword {
-  font-size: 9px;
+  font-size: 12px;
   display: none;
   color: #00ACEA; }
+
+#toast2 {
+  --paper-toast-background-color: #00ACEA;
+  --paper-toast-color: white; }
 `;
