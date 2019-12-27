@@ -1,8 +1,8 @@
-![hours-form screenshot](hours-form.svg)
-# <hours-form>
+![ib-login screenshot](ib-login.svg)
+# <ib-login>
 
 ![LitElement component](https://img.shields.io/badge/litElement-component-blue.svg)
-![Travis CI](https://travis-ci.org/github_username/hours-form.svg?branch=master)
+![Travis CI](https://travis-ci.org/github_username/ib-login.svg?branch=master)
 
 > This is an example file with default selections.
 
@@ -10,7 +10,7 @@
 
 ```html
     <script type="module">
-        import '@catsys/hours-form.js';
+        import '@catsys/ib-login.js';
     </script>
 ```
 

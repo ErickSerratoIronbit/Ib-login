@@ -1,8 +1,8 @@
 {
-  "name": "@catsys/hours-table",
+  "name": "@catsys/ib-login",
   "version": "1.0.0",
   "description": "Catsys component generated",
-  "main": "hours-table.js",
+  "main": "ib-login.js",
   "keywords": [
     "lit-element",
     "component"
@@ -14,13 +14,16 @@
     "test": "karma start"
   },
   "dependencies": {
+    "@polymer/paper-card": "^3.0.1",
+    "@polymer/paper-dialog": "^3.0.1",
+    "@polymer/paper-toast": "^3.0.1",
     "@vaadin/vaadin-button": "^2.2.1",
-    "@vaadin/vaadin-grid": "^5.5.0",
+    "@vaadin/vaadin-dialog": "^2.2.1",
+    "@vaadin/vaadin-text-field": "^2.5.3",
     "lit-element": "^2.0.0"
   },
   "devDependencies": {
     "@open-wc/testing": "^0.9.11",
-    "@open-wc/testing-karma": "^0.4.7",
-    "@polymer/paper-toast": "^3.0.1"
+    "@open-wc/testing-karma": "^0.4.7"
   }
 }
